@@ -7,3 +7,5 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+(Writing this line of code to test how will i pull the changes made to my local computer)
