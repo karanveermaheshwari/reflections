@@ -1,0 +1,30 @@
+1. How did Viewing a differene between two versions of a file help you see the bug that was introduced:
+
+The difference helped us spot typos quickly without going through the entire code. Typos are generally the mistakes the programmars makes.
+
+so difference between the versions can help us making typos fix quickly.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When moving towards advancement of the versions we delete and add features.. but after some versions we might need some feaures we had in the old versions. so history of different version always comes handy.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: It's always more efficient when you decide to commit the changes manually versus when committed automatically. Because there are many factors that should be taken into consideration while committing the changes. For example the logic(even if one liner), some extra code (chunks of codes), an extra feature, typos(but relevant) etc etc.
+
+cons: Human laziness.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+GIT: It's a little more complex than other version control systems but is more useful when working on a bigger projects.
+So that you can break down your project into steps and fix your mistakes by moving back and forth between the version.
+
+Others: They can be used for small tasks when playing with small projects.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+git log shows all the commits whil git diff is used to compare any two versions.
+
+6. How might using version control make you more confident to make changes that could break something?
+
+Because if somes bugs get introduced into the new version then I can easily switch back to the previous version and compare that what went wrong.
